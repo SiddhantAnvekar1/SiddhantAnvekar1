@@ -28,6 +28,10 @@ Laguages and Tools
   
 </div>
 
+Batches
+---
+[![@siddhantanvekar's Holopin board](https://holopin.io/api/user/board?user=siddhantanvekar)](https://holopin.io/@siddhantanvekar)
+
 GitHub Stats
 ---
 ![Andrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddhantAnvekar1&show_icons=true&theme=github_dark)
