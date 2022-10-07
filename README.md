@@ -4,12 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Siddhant+Anvekar....;Nice+to+meet+you!&center=false&size=30">
   </a>
 </h1>
-
+<!-- 
 - 👋 Hi, I’m @SiddhantAnvekar1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... -->
 
 Laguages and Tools
 ---
